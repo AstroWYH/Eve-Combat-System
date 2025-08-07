@@ -1,4 +1,4 @@
-# 战斗系统框架 (Combat System Framework)
+# 战斗系统模块 (Combat System Demo)
 
 一个基于C#的通用战斗系统框架，设计用于单机游戏开发，提供灵活可扩展的战斗机制、能力系统和团队对战支持。
 
